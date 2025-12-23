@@ -1,0 +1,16 @@
+# Core env loader
+python-dotenv==1.2.1
+
+# Azure AI Search ingestion & blob access
+azure-storage-blob==12.27.1
+requests==2.32.5
+pypdf==6.5.0
+azure-core==1.35.0
+
+# Azure OpenAI client
+openai==2.14.0
+
+# Azure AI Foundry / Agents client (for agent_triage.py)
+azure-ai-projects==1.0.0
+azure-ai-agents==1.1.0
+azure-identity==1.25.1
